@@ -1,1 +1,3 @@
-Ola
+#!/bin/bash
+
+echo "Finished feature"
