@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "Remade this feature"
+echo "Rede this feature"
 echo "Finished merging"
-echo "Updated feature"
+echo "Upd feature"
 echo "Updated feature 2"
+echo "Update"
