@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Continuing feature"
+echo "Finished feature"
+echo "Finished merging"
